@@ -1,0 +1,67 @@
+Project Title
+
+Resistor Color Code Calculator & Electronics Utility App
+
+Project Overview
+
+The Resistor Color Code Calculator is a mobile application designed for electronics students, beginners, hobbyists, technicians, and PCB designers to quickly and accurately identify resistor values and perform common electronics calculations.
+
+The app addresses the common challenge of understanding and memorizing resistor color codes by providing an interactive and intuitive digital solution. Instead of relying on charts or guesswork, users can visually select resistor bands or input resistance values to instantly obtain accurate results.
+
+Beyond basic color code conversion, the app evolves into a compact electronics utility by including essential calculators frequently used during circuit design, testing, and troubleshooting.
+
+Key Features
+
+4-band to 6-band resistor color → value conversion
+
+Resistance value → color code conversion
+
+Voltage Divider Calculator
+
+Light and Dark Mode support
+
+Tools & Technologies
+
+Flutter (Dart)
+
+Android Studio
+
+Learning Outcomes
+
+Practical implementation of calculation logic and mappings
+
+Improved UI/UX design for technical applications
+
+Experience building educational and utility-focused mobile apps
+
+Future Improvements (Planned Highlights)
+
+Memory feature to save frequently used calculations
+
+AI Assistant (future version)
+
+Explain circuit formulas in simple terms
+
+Recommend component substitutions
+
+Series & Parallel Resistor Calculator
+
+SMD Resistor Code Decoder
+
+Input 3- or 4-digit codes to get resistor values
+
+Highly practical for PCB designers
+
+Ohm’s Law Calculator
+
+Compute voltage, current, or resistance from two known values
+
+Power Calculator
+
+Calculate power using common electrical formulas
+
+Datasheet access module
+
+Hexadecimal to Decimal converter
+
+Binary to Decimal converter
